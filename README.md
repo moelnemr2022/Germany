@@ -17,7 +17,7 @@ Dialing code: **_+49_**
 
 Official language:
 
-[x] German
+- [x] German
 
 ![Germany](https://c8.alamy.com/comp/E8DTE6/germany-political-map-with-capital-berlin-national-borders-most-important-E8DTE6.jpg)
 
